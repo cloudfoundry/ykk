@@ -1,5 +1,5 @@
 # ykk
-> ykk.. the best zippers every made. - krishicks
+> ykk.. the best zippers ever made. - krishicks
 
 A library designed to read zip/jar files.
 
