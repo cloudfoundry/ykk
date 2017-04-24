@@ -9,6 +9,8 @@ import (
 	"io"
 )
 
+// Data is the expected input for NewReader. Satisfied by io.File and
+// bytes.Reader.
 type Data interface {
 	io.ReadSeeker
 	io.ReaderAt

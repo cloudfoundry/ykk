@@ -1,4 +1,4 @@
-# ykk
+# ykk [![GoDoc](https://godoc.org/code.cloudfoundry.org/ykk?status.svg)](https://godoc.org/code.cloudfoundry.org/ykk)
 > ykk.. the best zippers in the WORLD. - krishicks
 
 A library designed to read zip/jar files.
